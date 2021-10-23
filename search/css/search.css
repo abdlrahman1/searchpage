@@ -1,0 +1,212 @@
+*{
+  box-sizing: border-box;
+  font-family: "Work Sans", sans-serif;
+  color: #0C1829;
+}
+body{
+  margin: 0px;
+  background-color:#EEEEEE;
+}
+
+.conall
+{
+	width:80%;
+	padding:20px 10px 0px 210px;
+}
+
+.blog-form{
+	background-color: #FFFFFF; 
+	padding:10px;
+	height:fit-content;
+	width:21.9%;
+
+	margin-top:2%;
+	float:left;
+	border-radius:5px;
+	
+}
+
+.con
+{
+	width:70%;
+	height:150px;
+	background-color:#FFFFFF;
+	float:left;
+	margin-left:1%;
+	margin-top:2%;
+	border-radius:5px;
+	padding:10px 13px 10px 5px;
+}
+
+.select
+{
+	float:right;
+	
+	
+    
+}
+.form-control
+{
+	padding:2px;
+    font-size: 1rem;
+    color: #495057;
+    border-radius: 15px;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+	border:none;
+	background-color:#FFFFFF;
+	outline:none;
+}
+
+
+.btn-department
+{
+	background-color:#F0F0F0;
+	border:none;
+	width:62px;
+	height:27px;
+	border-radius:10px;
+}
+
+.form-control:hover
+{
+	background-color:#EDEDED;
+}
+
+
+
+.upto
+{
+	text-decoration:none;
+	font-size:16px;
+}
+
+.upto:hover
+{
+	color:#C45A17;
+}
+
+
+.fa
+
+{
+	color:orange;
+	text-decoration:none;
+}
+
+
+#raiting
+{
+	color:black; 
+	
+}
+
+.star
+{
+	text-decoration:None;
+}
+
+
+.min-max
+{
+	padding:3px;
+width:50px;
+	font-size:13px;
+	border:none;
+	border-radius:5px;
+	outline:none;
+}
+.btn
+{
+	width:40px;
+	height:25px;
+	border:none;
+	border-radius:8px;
+	cursor:pointer;
+	background-color:#ddd;
+	color: #0C1829
+	transition: .6s;
+}
+.btn:hover
+{
+	transition: .6s;
+	background-color:#374C6D;
+}
+
+
+
+
+.container
+{
+	width:70%;
+	height-fit-content;
+	background-color:#FFFFFF;;
+	float:left;
+	margin-left:1%;
+	padding:1px 15px 10px 5px;
+}
+
+.products{
+  width: 21.5%;
+  height: 55vh;
+  padding: 0px 0px 10px 10px;
+  border-radius: 5px;
+  float: left;
+  margin-left: 3%;
+  cursor: pointer;
+  
+  
+}
+
+
+.c
+{
+	width:70%;
+	height-fit-content;
+	background-color:#FFFFFF;;
+	float:left;
+	margin-left:1%;
+	padding:20px 0px;
+}
+
+.pro{
+  width: 17.5%;
+  height: 55vh;
+  padding: 0px 0px 10px 10px;
+  border-radius: 5px;
+  float: left;
+  margin-left: 2%;
+  cursor: pointer;
+  
+  
+}
+
+.pro img
+{
+	width:100%;
+	height:70%;
+}
+
+
+
+
+.products img
+{
+	width:100%;
+	height:70%;
+	
+
+	}
+	
+	.products h4
+	{
+		color: #0009;
+		text-decoration: line-through;
+	}
+	
+	.pro h4
+	{
+		color: #0009;
+		text-decoration: line-through;
+	}
+	
+	
